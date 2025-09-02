@@ -1,0 +1,10 @@
+.chanti{
+    width: 100px;
+    height: 90px;
+}
+body{
+    background-color: lightgreen;
+}
+#counter{
+    width: 5px;
+}
